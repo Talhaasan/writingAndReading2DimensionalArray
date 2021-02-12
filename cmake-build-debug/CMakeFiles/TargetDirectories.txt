@@ -1,3 +1,0 @@
-C:/src/cpp_projects/question3/cmake-build-debug/CMakeFiles/question3.dir
-C:/src/cpp_projects/question3/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/src/cpp_projects/question3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
